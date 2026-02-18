@@ -19,6 +19,7 @@ To write a program to predict car prices using a linear regression model and tes
 9.Output Results: Present the predictions and evaluation metrics. 
 
 ## Program:
+/*
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -75,9 +76,11 @@ ax1.set_title("Residuals Distribution")
 sm.qqplot(residuals,line='45',fit=True,ax=ax2)
 ax2.set_title("Q-Q Plot")
 plt.tight_layout()
+*/
 
 ## Output:
 Screenshot 2026-02-18 232712
+
 
 
 ## Result:
