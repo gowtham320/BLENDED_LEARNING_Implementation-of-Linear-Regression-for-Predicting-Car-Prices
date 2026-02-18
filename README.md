@@ -79,8 +79,10 @@ plt.tight_layout()
 */
 
 ## Output:
-Screenshot 2026-02-18 232712
-
+<img width="1253" height="319" alt="Screenshot 2026-02-18 232712" src="https://github.com/user-attachments/assets/e6bb426b-261f-4318-ac1a-f01c21c52fa7" />
+<img width="1276" height="646" alt="Screenshot 2026-02-18 232727" src="https://github.com/user-attachments/assets/b352a72b-07db-4ee5-ab3f-57fb77b94918" />
+<img width="1284" height="655" alt="Screenshot 2026-02-18 232745" src="https://github.com/user-attachments/assets/f04eb291-f173-498c-a028-d79f7cea4252" />
+<img width="1358" height="565" alt="Screenshot 2026-02-18 232800" src="https://github.com/user-attachments/assets/c293ec10-c407-488d-a183-84c2bd4c43c0" />
 
 
 ## Result:
